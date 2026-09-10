@@ -1,0 +1,6 @@
+2026-09-07 12:00pm: Accessed geeksforgeeks for better understanding of pointers vs. references since different from C (www.geeksforgeeks.org/cpp/cpp-pointers, www.geeksforgeeks.org/cpp/references-in-cpp)
+
+2026-09-07 4:00pm: Reviewing cross product (en.wikipedia.org/wiki/Cross_product#Coordinate_notation)
+
+2026-09-09 9:00am: I didn't feel like going back into the lecture notes so I searched up Rodrigues' rotation formula on Wikipedia (en.wikipedia.org/wiki/Euler%E2%80%93Rodrigues_formula), I still went back to the lecture notes though
+
