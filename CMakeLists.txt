@@ -6,7 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(hw01 main.cpp
-    mat4.cpp mat4.h vec4.cpp vec4.h)
+    mat4.cpp mat4.h vec4.cpp vec4.h
+    README.md)
 
 include(GNUInstallDirs)
 install(TARGETS hw01
